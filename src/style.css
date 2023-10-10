@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.margin-inline{
+  @apply w-[90%] md:w-[82%] lg:w-[75%] mx-auto;
+}
